@@ -1,4 +1,10 @@
-my_config_parser
-================
+# my_config_parser
 
-Parses a simple config file. 
+This gem parses a simple config file. 
+
+## Installation
+    gem install my_config_parser
+
+## Usage
+
+*``MyConfigParser.new(/path/to/file)``*:
