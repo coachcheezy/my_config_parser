@@ -7,5 +7,6 @@ This gem parses a standard configuration file. For example "param = value"
 
 ## Usage
 
-*``my_config = MyConfigParser.new(/path/to/file)``*
-*``my_config.param_name``*
+    my_config = MyConfigParser.new(/path/to/file)
+
+    my_config.param_name
